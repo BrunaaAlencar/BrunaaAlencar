@@ -6,7 +6,7 @@
 
 <p>I’m Bruna Alencar and thanks for stopping by!</p>
 
-<p>I'm just a girl learning the ways around Github, learning cybersecurity and coding some projects on the way!</p>
+<p>I'm just a girl learning the ways around Github.
 <p>Find me at LinkedIn for more details about who I am :smile:</p>
 
 <div>
