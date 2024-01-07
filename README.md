@@ -2,7 +2,7 @@
 
 # Fala Galera!👋 
 
-<p><img src="https://tenor.com/view/hello-bear-how-are-you-greetings-salutations-gif-5948601.gif"/></p>
+<p><img src="https://www.icegif.com/wp-content/uploads/meme-icegif.gif"/></p>
 
 <p>I’m Bruna Alencar and thanks for stopping by!</p>
 
